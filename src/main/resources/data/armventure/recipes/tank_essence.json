@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lla",
+    "lnl",
+    "lll"
+  ],
+  "key": {
+    "n": {
+      "item": "armventure:essence"
+    },
+    "l": {
+      "item": "minecraft:iron_block"
+    },
+    "a": {
+      "item": "minecraft:poppy"
+    }
+  },
+  "result": {
+    "item": "armventure:tank_essence",
+    "count": 1
+  }
+}

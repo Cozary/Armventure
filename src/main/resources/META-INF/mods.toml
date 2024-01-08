@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="GPL-3.0-or-later"
+issueTrackerURL="https://github.com/Cozary/armventure/issues"
+
+[[mods]]
+modId = "armventure"
+version = "1.18.1-2.0.9"
+displayName = "Armventure Mod"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/armventure"
+authors = "Cozary"
+credits = "Thanks you for download my Mod. uwu"
+description = '''
+    You need some overpower but simple armours? Yep, this mod is about that.
+'''
+
+[[dependencies.armventure]]
+modId = "forge"
+mandatory = true
+versionRange = "[39,)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.armventure]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18.1,1.19)"
+ordering = "NONE"
+side = "BOTH"

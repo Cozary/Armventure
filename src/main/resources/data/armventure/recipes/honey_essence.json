@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ala",
+    "lnl",
+    "ala"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "l": {
+      "item": "minecraft:gold_block"
+    },
+    "a": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "armventure:honey_essence",
+    "count": 1
+  }
+}

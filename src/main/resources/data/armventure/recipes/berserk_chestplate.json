@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    "lnl",
+    "   "
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "l": {
+      "item": "armventure:forja"
+    },
+    "a": {
+      "item": "armventure:berserker_essence"
+    }
+  },
+  "result": {
+    "item": "armventure:berserk_chestplate",
+    "count": 1
+  }
+}

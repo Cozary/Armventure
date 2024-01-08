@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    "lnl",
+    "   "
+  ],
+  "key": {
+    "n": {
+      "item": "armventure:miner_helmet"
+    },
+    "l": {
+      "item": "armventure:forja"
+    },
+    "a": {
+      "item": "armventure:miner_essence"
+    }
+  },
+  "result": {
+    "item": "armventure:miner_helmet2",
+    "count": 1
+  }
+}

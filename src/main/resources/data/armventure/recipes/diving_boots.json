@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    "lnl",
+    "   "
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:diamond_boots"
+    },
+    "l": {
+      "item": "armventure:forja"
+    },
+    "a": {
+      "item": "armventure:diving_essence"
+    }
+  },
+  "result": {
+    "item": "armventure:diving_boots",
+    "count": 1
+  }
+}

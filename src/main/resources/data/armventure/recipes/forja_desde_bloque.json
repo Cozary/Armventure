@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "armventure:forgium_block_item"
+    }
+  ],
+  "result": {
+    "item": "armventure:forja",
+    "count": 9
+  }
+}

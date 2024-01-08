@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ala",
+    "lnl",
+    "ala"
+  ],
+  "key": {
+    "n": {
+      "item": "armventure:essence"
+    },
+    "l": {
+      "item": "minecraft:obsidian"
+    },
+    "a": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "armventure:nether_essence",
+    "count": 1
+  }
+}

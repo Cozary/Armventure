@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ala",
+    "lnl",
+    "ala"
+  ],
+  "key": {
+    "n": {
+      "item": "armventure:essence"
+    },
+    "l": {
+      "item": "minecraft:golden_apple"
+    },
+    "a": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "armventure:life_essence",
+    "count": 1
+  }
+}

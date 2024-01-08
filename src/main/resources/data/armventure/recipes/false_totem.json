@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lal",
+    "bab",
+    "aaa"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:emerald"
+    },
+    "l": {
+      "item": "minecraft:redstone_block"
+    },
+    "a": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "armventure:false_totem",
+    "count": 1
+  }
+}

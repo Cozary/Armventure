@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aga",
+    "lnl",
+    "awa"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:diamond_helmet"
+    },
+    "l": {
+      "item": "armventure:forja"
+    },
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "g": {
+      "item": "minecraft:glowstone"
+    },
+    "w": {
+      "item": "armventure:miner_essence"
+    }
+  },
+  "result": {
+    "item": "armventure:miner_helmet",
+    "count": 1
+  }
+}

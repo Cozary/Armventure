@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ala",
+    "lnl",
+    "ala"
+  ],
+  "key": {
+    "n": {
+      "item": "armventure:essence"
+    },
+    "l": {
+      "item": "minecraft:blaze_powder"
+    },
+    "a": {
+      "item": "minecraft:fire_charge"
+    }
+  },
+  "result": {
+    "item": "armventure:berserker_essence",
+    "count": 1
+  }
+}

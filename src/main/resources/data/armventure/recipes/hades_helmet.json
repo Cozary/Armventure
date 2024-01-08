@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    "lnl",
+    "   "
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:diamond_helmet"
+    },
+    "l": {
+      "item": "armventure:forja"
+    },
+    "a": {
+      "item": "armventure:hades_essence"
+    }
+  },
+  "result": {
+    "item": "armventure:hades_helmet",
+    "count": 1
+  }
+}

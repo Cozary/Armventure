@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    "lnl",
+    "   "
+  ],
+  "key": {
+    "n": {
+      "item": "armventure:diving_helmet"
+    },
+    "l": {
+      "item": "armventure:forja"
+    },
+    "a": {
+      "item": "armventure:diving_essence"
+    }
+  },
+  "result": {
+    "item": "armventure:diving_helmett2",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "lal",
+    "lnl",
+    "lll"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:diamond_leggings"
+    },
+    "l": {
+      "item": "armventure:forgium_block_item"
+    },
+    "a": {
+      "item": "armventure:definitive_essence"
+    }
+  },
+  "result": {
+    "item": "armventure:god_leggings",
+    "count": 1
+  }
+}

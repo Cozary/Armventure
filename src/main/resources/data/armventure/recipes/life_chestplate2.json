@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    "lnl",
+    " z "
+  ],
+  "key": {
+    "n": {
+      "item": "armventure:life_chestplate"
+    },
+    "l": {
+      "item": "armventure:forja"
+    },
+    "z": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "a": {
+      "item": "armventure:life_essence"
+    }
+  },
+  "result": {
+    "item": "armventure:life_chestplatet2",
+    "count": 1
+  }
+}

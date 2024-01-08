@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "alb",
+    "sns",
+    "dlc"
+  ],
+  "key": {
+    "n": {
+      "item": "armventure:essence"
+    },
+    "l": {
+      "item": "minecraft:emerald"
+    },
+    "s": {
+      "item": "minecraft:diamond"
+    },
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "item": "minecraft:iron_ingot"
+    },
+    "d": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "armventure:miner_essence",
+    "count": 1
+  }
+}

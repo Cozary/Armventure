@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "armventure:block/forgium_block"
+    }
+  }
+}

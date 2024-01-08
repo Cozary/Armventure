@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    "lnl",
+    "   "
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:iron_chestplate"
+    },
+    "l": {
+      "item": "armventure:forja"
+    },
+    "a": {
+      "item": "armventure:angel_essence"
+    }
+  },
+  "result": {
+    "item": "armventure:angel_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ala",
+    "lnl",
+    "ala"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:ender_eye"
+    },
+    "l": {
+      "item": "minecraft:nether_star"
+    },
+    "a": {
+      "item": "armventure:essence"
+    }
+  },
+  "result": {
+    "item": "armventure:definitive_essence",
+    "count": 1
+  }
+}

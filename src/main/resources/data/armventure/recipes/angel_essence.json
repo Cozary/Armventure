@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ala",
+    "lnl",
+    "ala"
+  ],
+  "key": {
+    "n": {
+      "item": "armventure:essence"
+    },
+    "l": {
+      "item": "minecraft:ghast_tear"
+    },
+    "a": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "result": {
+    "item": "armventure:angel_essence",
+    "count": 1
+  }
+}

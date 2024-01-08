@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ala",
+    "lnl",
+    "ala"
+  ],
+  "key": {
+    "n": {
+      "item": "armventure:essence"
+    },
+    "l": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "a": {
+      "item": "minecraft:ink_sac"
+    }
+  },
+  "result": {
+    "item": "armventure:diving_essence",
+    "count": 1
+  }
+}
